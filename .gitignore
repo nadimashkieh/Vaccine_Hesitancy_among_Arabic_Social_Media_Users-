@@ -1,1 +1,5 @@
-
+*_file.csv
+*_file.txt
+*.txt
+*.csv
+*.png
